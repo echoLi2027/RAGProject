@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+.idea/
+chroma_db/
+md5.text
